@@ -123,11 +123,11 @@
       <h4>Scénario : Détecter Fuites</h4>
       <img src="./img/detectfuite.JPG" alt="Diagramme de Séquence - Détecter Fuites">
       <h4>Scénario : Gérer Historique</h4>
-      <img src="./img/stockerhistorique.JPG" alt="Diagramme de Séquence - Gérer Historique">
+      <img src="./stockerhistorique.JPG" alt="Diagramme de Séquence - Gérer Historique">
       <h4>Scénario : Envoyer Alertes</h4>
-      <img src="./img/stockerhistorique.jpg" alt="Diagramme de Séquence - Envoyer Alertes">
+      <img src="./img/envoyerdesalertes.JPG" alt="Diagramme de Séquence - Envoyer Alertes">
       <h4>Scénario : Envoyer et Recevoir des Notifications</h4>
-      <img src="./img/notif.jpg" alt="Diagramme de Séquence - Envoyer et Recevoir des Notifications">
+      <img src="./img/notif.JPG" alt="Diagramme de Séquence - Envoyer et Recevoir des Notifications">
       <h3>Diagramme d'Activité</h3>
       <img src="./img/diagrammeActivite.JPG" alt="Diagramme d'Activité">
     </section>
