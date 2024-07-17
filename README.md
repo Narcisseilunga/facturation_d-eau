@@ -1,5 +1,3 @@
-Voici une documentation pour un système de facturation et distribution d'eau :
-
 # Documentation du Système de Facturation et Distribution d'Eau
 
 ## Introduction
@@ -33,20 +31,6 @@ Ce système de facturation et distribution d'eau a été conçu pour permettre a
    - Analyses détaillées de la consommation par catégorie d'abonnés
    - Tableaux de bord pour le suivi des performances globales
 
-## Configuration requise
-
-- Système d'exploitation : Windows 10 ou version ultérieure
-- Processeur : Intel Core i5 ou équivalent
-- RAM : 8 Go minimum
-- Espace disque : 100 Go minimum
-- Connexion Internet stable
-
-## Installation
-
-1. Télécharger le fichier d'installation du système de facturation et distribution d'eau à partir du site web de l'entreprise.
-2. Exécuter le fichier d'installation et suivre les étapes du processus d'installation.
-3. Créer un compte utilisateur avec les autorisations appropriées.
-4. Configurer les paramètres de base (informations de l'entreprise, tarifs, catégories d'abonnés, etc.).
 
 ## Utilisation
 
