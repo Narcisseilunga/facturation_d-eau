@@ -119,7 +119,7 @@
       <h4>Scénario : S'inscrire</h4>
       <img src="./img/diagramme_sec.JPG" alt="Diagramme de Séquence - S'inscrire">
       <h4>Scénario : S'authentifier</h4>
-      <img src="./img/s\'authentifier.JPG" alt="Diagramme de Séquence - S'authentifier">
+      <img src="./img/s'authentifier.JPG" alt="Diagramme de Séquence - S'authentifier">
       <h4>Scénario : Détecter Fuites</h4>
       <img src="./img/detectfuite.JPG" alt="Diagramme de Séquence - Détecter Fuites">
       <h4>Scénario : Gérer Historique</h4>
